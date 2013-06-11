@@ -25,7 +25,7 @@
 		SuperTab                 加速补全插件
 		ShowColor                列出Vim的所有颜色
 
-### 安装(*for Linux*) ###
+### 安装(for Linux) ###
 		sudo apt-get install exuberant-ctags
 		sudo apt-get install cscope
 		cd ~
