@@ -1,4 +1,4 @@
-hahaya's Vim settings, plugins...
+*hahaya's Vim settings, plugins...*
 ======================================
 
 ### 项目结构 ###
